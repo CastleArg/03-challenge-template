@@ -1,23 +1,14 @@
 # 01 Challenge - `TODO`
 
-`TODO challenge overview`
 
-**Contents**
-- [01 Challenge - `TODO`](#01-challenge---todo)
-  - [Learning Outcomes](#learning-outcomes)
-  - [Challenge Brief](#challenge-brief)
-  - [Rationale](#rationale)
-  - [Getting Started](#getting-started)
-  - [Development Web Server](#development-web-server)
-  - [Challenge Part A - Part A Instructions](#challenge-part-a---part-a-instructions)
-  - [Challenge Part B - Part B Instructions](#challenge-part-b---part-b-instructions)
-- [Submit the Challenge](#submit-the-challenge)
-
----
-
-## Learning Outcomes
-
-* LOxx - `TODO`
+<details>
+  <summary>Learning Outcomes</summary> 
+  
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
 
 ---
 
@@ -39,31 +30,7 @@
 
 1. `clone` the challenge repository to your local computer using VS Code or the Terminal.
 2. Read the challenge instructions and get started.
-3. The code for this challenge should go into `/Submission/static/js/script.js`.
 
-## Development Web Server
-
-Run the following commands in your Terminal to start the webserver:
-
-```shell
-# install the server dependencies
-npm install
-
-# start the webserver
-npm start
-```
-
-Once the server starts running it should give you a message and port number. You should be able to send HTTP requests to the webserver now.
-
----
-
-## Challenge Part A - Part A Instructions
-
-`TODO`
-
-## Challenge Part B - Part B Instructions
-
-`TODO`
 
 ---
 
@@ -86,7 +53,7 @@ Your challenge repos can be found here: https://github.com/developers-institute-
 
 ```shell
 # example git clone command - replace this URL with your repo's URL
-git clone git@github.com:Developers-Institute-WDD01/01-challenge-CHALLENGE-NAME--YOUR_NAME.git
+git clone git@github.com:Developers-Institute-WDD03/01-challenge-CHALLENGE-NAME--YOUR_NAME.git
 
 # make sure to change directory into the cloned directory
 cd <01-challenge-CHALLENGE-NAME--YOUR_NAME>
@@ -99,7 +66,7 @@ code .
 # when ready to commit and push
 git add .
 
-git commit -m "My client-side challenge"
+git commit -m "My full-sstack challenge"
 
 git push origin master
 ```
