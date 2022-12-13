@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Developers-Institute/WDD01-Challenge-Template#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http-status-codes": "^1.4.0",
     "nodemon": "^2.0.4"
   },
